@@ -1,2 +1,1 @@
-# Python
-basic to adv
+python-learning-journey
